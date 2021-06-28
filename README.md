@@ -5,6 +5,9 @@ Unityゲーム プログラミング・バイブル 2nd Generation
 `テーマNo17 Firebaseを活用した非リアルタイムネットワークゲーム`
 のサンプルプロジェクトです。
 
+## サンプルゲーム
+[こちら](https://github.com/greenkuruma/FirebaseKart/releases/tag/v1.0)
+
 ## 重要なお知らせ
 【2021/06/28追記】
 493ページでダウンロードする`google-services.json`ですが、初回DL時だと"firebase_url"の値が設定されていない事があるようです。
